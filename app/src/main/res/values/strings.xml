@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SKIUS_sample</string>
+    <string name="title_community">community</string>
+    <string name="title_control">control</string>
+    <string name="title_mypage">mypage</string>
+    <string name="title_shop">shop</string>
+    <string name="title_snowtrack">snowtrack</string>
+
+</resources>

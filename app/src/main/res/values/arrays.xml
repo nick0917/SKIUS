@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="control_theme">
+        <item>커스텀</item>
+        <item>레인보우</item>
+        <item>프랑스</item>
+    </string-array>
+
+    <string-array name="control_pattern">
+        <item>고정</item>
+        <item>짧게 흐르기</item>
+        <item>길게 흐르기</item>
+        <item>숨쉬기</item>
+        <item>반짝임</item>
+    </string-array>
+
+</resources>

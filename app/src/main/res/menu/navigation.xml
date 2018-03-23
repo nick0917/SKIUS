@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@drawable/community_icon"
+        android:title="@string/title_community" />
+
+    <item
+        android:id="@+id/navigation_control"
+        android:icon="@drawable/control_icon"
+        android:title="@string/title_control" />
+
+    <item
+        android:id="@+id/navigation_snowtrack"
+        android:icon="@drawable/snowtrack_icon"
+        android:title="@string/title_snowtrack" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/shop_icon"
+        android:title="@string/title_shop" />
+
+    <item
+        android:id="@+id/navigation_mypage"
+        android:icon="@drawable/mypage_icon"
+        android:title="@string/title_mypage" />
+
+</menu>
